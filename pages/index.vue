@@ -29,7 +29,7 @@ export default {
   created() {
     this.links = [
       {
-        to: "/vue/vue-resume",
+        to: "/vue-resume",
         label: "Resume",
         title: "View Resume"
       }
