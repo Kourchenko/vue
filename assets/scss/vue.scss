@@ -1,0 +1,94 @@
+* {
+  font-family: serif;
+}
+.resume-header {
+  display: inline-block;
+  width: 100%;
+
+  .section--header {
+    display: flex;
+    h1 {
+      font-size: 22px;
+      font-weight: 500;
+    }
+    h2 {
+      font-size: 16px;
+      font-weight: 100;
+      color: #3d3d3d;
+    }
+  }
+}
+
+.section {
+  display: inline-block;
+  width: 100%;
+  padding-top: 15px;
+
+  .section--header {
+
+    h1 {
+      font-size: 14px;
+      font-weight: 400;
+      width: 100%;
+      color: #3d3d3d;
+    }
+  }
+  
+  .section--divider {
+    width: 100%;
+    border-bottom: 2px solid #3d3d3d;
+    display: flex;
+    width: 100%;
+    padding-top: 3px;
+  }
+
+  .section--content {
+    display: flex;
+    width: 100%;
+
+    h2 {
+      font-size: 16px;
+      font-weight: 100;
+      color: #3d3d3d;
+    }
+  }
+
+  .section--item {
+    padding-top: 7px;
+    .header {
+      display: flex;
+      h2 {
+        font-size: 16px;
+        font-weight: 100;
+      }
+    }
+    .list--container {
+      font-size: 15px;
+      .list--education {
+        list-style: inside;
+        margin-left: -40px;
+        .list-item {
+          display: flex;
+          width: 100%;
+          
+        }
+      }
+      .list--experience {
+        list-style: circle;
+        margin-left: -10px;
+        padding-top: 5px;
+      }
+    }
+  }
+}
+
+.flex--right {
+  margin-left: auto;
+  margin-top: auto;
+  order: 2;
+}
+
+.text--bold {
+  font-weight: 600 !important;
+}
+
