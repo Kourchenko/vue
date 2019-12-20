@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <nav class="nav--resume">
-      <router-link class="button--white" to="/"> 
+      <router-link class="button--white" to="/vue"> 
         Home
       </router-link>
     </nav>

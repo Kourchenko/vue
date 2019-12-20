@@ -6,7 +6,7 @@
         diego kourchenko
       </h1>
       <div class="links">
-        <router-link class="button--green" to="/vue-resume"> Resume/CV </router-link>
+        <router-link class="button--green" to="/vue/vue-resume"> Resume/CV </router-link>
         <a
           href="https://github.com/Kourchenko"
           target="_blank"
@@ -29,7 +29,7 @@ export default {
   created() {
     this.links = [
       {
-        to: "/vue-resume",
+        to: "/vue/vue-resume",
         label: "Resume",
         title: "View Resume"
       }
