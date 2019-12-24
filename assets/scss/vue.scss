@@ -57,13 +57,15 @@
     padding-top: 7px;
     .header {
       display: flex;
-      li {
-        font-size: 12px;
-      }
       h2 {
         font-size: 12px;
         font-weight: 100;
       }
+    .company {
+      font-size: 14px;
+    }
+    .title {
+      font-size: 12px;
     }
     .list--container {
       font-size: 14px;

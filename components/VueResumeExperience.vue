@@ -9,12 +9,12 @@
 
 
     <div class="section--item">
-      <div class="header">
+      <div class="header company">
         <h2 class="text--bold"> Acme Cone </h2>
         <h2 class="flex--right"> Eugene, OR </h2>
       </div>
 
-      <div class="header">
+      <div class="header title">
         <i>Sales and Support </i>
         <i class="flex--right"> August 2019  -  Present </i>
       </div>
@@ -37,12 +37,12 @@
     </div>
 
     <div class="section--item">
-      <div class="header">
+      <div class="header company">
         <h2 class="text--bold"> SpeedUpAmerica (Open-Source Project) </h2>
         <h2 class="flex--right"> Eugene, OR </h2>
       </div>
 
-      <div class="header">
+      <div class="header title">
         <i> Lead Frontend Developer (JavaScript, NodeJS, Ruby, Rails, Docker, MySQL, AWS) </i>
         <i class="flex--right">April 2019  -  Present</i>
       </div>
@@ -62,11 +62,11 @@
     </div>
 
     <div class="section--item">
-      <div class="header">
+      <div class="header company">
         <h2 class="text--bold"> 4J Eugene School District Program </h2>
         <h2 class="flex--right"> El Camino Elementary Eugene, OR </h2>
       </div>
-      <div class="header">
+      <div class="header title">
         <i> Coder In Residence (JavaScript) </i>
         <i class="flex--right">April 2019  -  May 2019</i>
       </div>
@@ -88,11 +88,11 @@
     </div>
 
     <div class="section--item">
-      <div class="header">
+      <div class="header company">
         <h2 class="text--bold"> CBT  Nuggets </h2>
         <h2 class="flex--right"> Eugene, OR </h2>
       </div>
-      <div class="header">
+      <div class="header title">
         <i>Developer Intern (JavaScript/TypeScript, NodeJS, ReactJS, Redux, GraphQL, MongoDB, AWS)</i>
         <i class="flex--right">June 2018  -  March 2019</i>
       </div>
@@ -112,11 +112,11 @@
     </div>
 
     <div class="section--item">
-      <div class="header">
+      <div class="header company">
         <h2 class="text--bold"> Acme Cone </h2>
         <h2 class="flex--right"> Eugene, OR </h2>
       </div>
-      <div class="header">
+      <div class="header title">
         <i> Machine Production Manager (Java, Swift, XCode) </i>
         <i class="flex--right">January 2015  -  June 2018 </i>
       </div>
