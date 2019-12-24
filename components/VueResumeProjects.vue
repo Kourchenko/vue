@@ -14,7 +14,7 @@
           </li>
           <li>
             <strong>Hack for a Cause</strong>: Committee Advisor for yearly hackathon to bring community ideas to fruition.
-            VueJS developer for HackForACause.org website, using NuxtJS framework, hosted on GitHub Pages.
+            \n VueJS developer for HackForACause.org website, using NuxtJS framework, hosted on GitHub Pages.
           </li>
           <li>
             <strong>Coder In Residence</strong>: Bilingual Robotics program success featured in Register Guard.
