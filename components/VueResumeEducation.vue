@@ -8,14 +8,14 @@
 
     <div class="section--item">
       <div class="header">
-        <h2 class="text--bold"> Lane Community College </h2>
+        <h2 class="text--bold"> (LCC) Lane Community College </h2>
         <h2 class="flex--right"> Eugene, OR </h2>
       </div>
       <div class="list--container">
         <ul class="list--education">
           <div class="list-item">
-            <i>Associate of Science: Computer Science</i>
-            <i class="flex--right"></i>
+            <i>AAssociates of Science</i>
+            <i class="flex--right"> September 2015 - June 2017 </i>
           </div>
         </ul>
       </div>
@@ -23,14 +23,14 @@
 
     <div class="section--item">
       <div class="header">
-        <h2 class="text--bold"> Oregon State University (OSU) </h2>
+        <h2 class="text--bold"> (OSU) Oregon State University (OSU) </h2>
         <h2 class="flex--right"> Corvallis, OR </h2>
       </div>
       <div class="list--container">
         <ul class="list--education">
           <div class="list-item">
-            <i>Bachelor of Science: Applied A.I. GPA: 3.56</i>
-            <i class="flex--right">Expected Graduation: 2021</i>
+            <i> Bachelors of Science - Applied Computer Science; GPA: 3.56 </i>
+            <i class="flex--right"> Expected Graduation: 2022 </i>
           </div>
         </ul>
       </div>

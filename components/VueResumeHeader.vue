@@ -7,7 +7,7 @@
       </h2>
     </div>
     <div class="section--header">
-      <h2> 601 Country Club Rd Eugene, OR </h2>
+      <h2> 601 Country Club Rd. Eugene, OR </h2>
       <h2 class="flex--right"> Mobile: (678) 908-0605 </h2>
     </div>
     <div class="section--header">

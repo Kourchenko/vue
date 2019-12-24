@@ -6,9 +6,10 @@
     <span class="section--divider" />
     <div class="section--content">
       <h2>
-        The past 4 years I have been involved in various leadership projects around the community, including leading the design and development of software applications for commercial use and providing tech mentoring at tech events. 
-        My professional career includes 3 years managing diverse teams and developing production-ready software applications.
-        My education at Oregon State University focuses on artificial intelligence and distributed networks.
+        The past 4 years I have been involved in various leadership projects around the community, including leading the design
+        and development of software applications for commercial use and providing tech mentoring at community tech events. My
+        professional career includes 3 years managing diverse teams and 2 years developing production-ready software applications.
+        As a Senior at Oregon State University, I am focusing on artificial intelligence, cloud systems, and distributed networks.
       </h2>
     </div>
   </div>
