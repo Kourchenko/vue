@@ -101,11 +101,13 @@
         <ul class="list--experience">
           <li>
             <strong>Website Development</strong>:
-            Development and maintenance of API and interactive website to track and create new seating-chart reservations across 3 building locations using Drag-n-Drop interactive map.
+              Development and maintenance of GraphQL API and interactive website to track and create new
+              seating-chart reservations across 3 building locations using ReactJS, Redux, and HTML/CSS to build a Drag-n-Drop map.
           </li>
           <li>
             <strong>Cloud Systems</strong>:
-            Development of continuous integration API to automate software development and code deployment to provide support for software development team for developing new applications.
+              Development of continuous integration service API for code-deployment managing software using GitHub
+              Version Control Software (VCS) Hooks, AWS CodeDeploy, an AWS SQS message queue, and Mongo DataBase.
           </li>
         </ul>
       </div>
