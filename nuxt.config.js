@@ -14,7 +14,15 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
+      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' },
+
+      // OpenGraph data
+      {hid: 'og:locale', content: 'en-US'},
+      {hid: 'og:title', content: 'VueJS - Diego Kourchenko'},
+      {hid: 'og:site_name', content: 'Diego Kourchenko'},
+      {hid: 'og:url', content: 'https://Kourchenko.github.io/vue'},
+      {hid: 'og:type', content:'website'},
+      {hid: 'og:description', content: 'VueJS website to display components for building an online resume/CV.'}
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
